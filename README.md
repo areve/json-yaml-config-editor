@@ -1,6 +1,6 @@
-# config-editor
+# json-yaml-config-editor
 
-> A Vue.js project
+> An experimental json and yaml config file editor
 
 ## Build Setup
 
@@ -17,3 +17,5 @@ yarn build
 # build for production and view the bundle analyzer report
 yarn build --report
 ```
+
+See the [Demo](https://areve.github.io/json-yaml-config-editor/)

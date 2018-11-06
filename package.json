@@ -1,7 +1,7 @@
 {
   "name": "config-editor",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "An experimental json and yaml config file editor",
   "author": "areve <areve@example.com>",
   "private": true,
   "scripts": {
